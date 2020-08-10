@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "//amrmuhamedd.github.io/market/static/css/main.6bbe4370.chunk.css",
+    "main.js": "//amrmuhamedd.github.io/market/static/js/main.401abc3c.chunk.js",
+    "main.js.map": "//amrmuhamedd.github.io/market/static/js/main.401abc3c.chunk.js.map",
+    "runtime-main.js": "//amrmuhamedd.github.io/market/static/js/runtime-main.f770e5b7.js",
+    "runtime-main.js.map": "//amrmuhamedd.github.io/market/static/js/runtime-main.f770e5b7.js.map",
+    "static/css/2.af3c1da9.chunk.css": "//amrmuhamedd.github.io/market/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9e5c5698.chunk.js": "//amrmuhamedd.github.io/market/static/js/2.9e5c5698.chunk.js",
+    "static/js/2.9e5c5698.chunk.js.map": "//amrmuhamedd.github.io/market/static/js/2.9e5c5698.chunk.js.map",
+    "index.html": "//amrmuhamedd.github.io/market/index.html",
+    "precache-manifest.c647d3b45a2809057f51995d050db342.js": "//amrmuhamedd.github.io/market/precache-manifest.c647d3b45a2809057f51995d050db342.js",
+    "service-worker.js": "//amrmuhamedd.github.io/market/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "//amrmuhamedd.github.io/market/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6bbe4370.chunk.css.map": "//amrmuhamedd.github.io/market/static/css/main.6bbe4370.chunk.css.map",
+    "static/js/2.9e5c5698.chunk.js.LICENSE.txt": "//amrmuhamedd.github.io/market/static/js/2.9e5c5698.chunk.js.LICENSE.txt",
+    "static/media/bag-1.jpg": "//amrmuhamedd.github.io/market/static/media/bag-1.1e356b72.jpg",
+    "static/media/headphone-1.jpg": "//amrmuhamedd.github.io/market/static/media/headphone-1.b254084c.jpg",
+    "static/media/laptop-1.jpg": "//amrmuhamedd.github.io/market/static/media/laptop-1.6723c5ab.jpg",
+    "static/media/shoes2.jpg": "//amrmuhamedd.github.io/market/static/media/shoes2.3cc42044.jpg",
+    "static/media/tishrt-2.jpg": "//amrmuhamedd.github.io/market/static/media/tishrt-2.b15cd719.jpg",
+    "static/media/watch-1.jpg": "//amrmuhamedd.github.io/market/static/media/watch-1.821d4dd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f770e5b7.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9e5c5698.chunk.js",
+    "static/css/main.6bbe4370.chunk.css",
+    "static/js/main.401abc3c.chunk.js"
+  ]
+}
