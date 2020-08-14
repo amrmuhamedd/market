@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a73292f6c76d8ceea49c2fd80b4d0b61",
+    "revision": "4a1bc6f454f92428bac0a3f71a8adfee",
     "url": "//amrmuhamedd.github.io/market/index.html"
   },
   {
-    "revision": "0af6964633eef5479bce",
+    "revision": "a7ad3806848d77a3a27e",
     "url": "//amrmuhamedd.github.io/market/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "c6d76f022e15b422ddf3",
-    "url": "//amrmuhamedd.github.io/market/static/css/main.6bbe4370.chunk.css"
+    "revision": "8fa2d38f93789aad2bf6",
+    "url": "//amrmuhamedd.github.io/market/static/css/main.75e14758.chunk.css"
   },
   {
-    "revision": "0af6964633eef5479bce",
-    "url": "//amrmuhamedd.github.io/market/static/js/2.9e5c5698.chunk.js"
+    "revision": "a7ad3806848d77a3a27e",
+    "url": "//amrmuhamedd.github.io/market/static/js/2.a8a3a7ef.chunk.js"
   },
   {
     "revision": "4d47ffde3dc69784e8e23fd910817ef8",
-    "url": "//amrmuhamedd.github.io/market/static/js/2.9e5c5698.chunk.js.LICENSE.txt"
+    "url": "//amrmuhamedd.github.io/market/static/js/2.a8a3a7ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6d76f022e15b422ddf3",
-    "url": "//amrmuhamedd.github.io/market/static/js/main.401abc3c.chunk.js"
+    "revision": "8fa2d38f93789aad2bf6",
+    "url": "//amrmuhamedd.github.io/market/static/js/main.87b932d4.chunk.js"
   },
   {
     "revision": "8f845fbd9683b49cc3d8",
