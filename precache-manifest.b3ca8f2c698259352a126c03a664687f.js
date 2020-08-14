@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bece3bcca687853453ecd61702d67510",
+    "revision": "2404dcc2785454b6df3f700314965d46",
     "url": "//amrmuhamedd.github.io/market/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//amrmuhamedd.github.io/market/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "2614545db42c011a5ebe",
-    "url": "//amrmuhamedd.github.io/market/static/css/main.cdda8349.chunk.css"
+    "revision": "961b2a9441f7b3e7157e",
+    "url": "//amrmuhamedd.github.io/market/static/css/main.30f7fc64.chunk.css"
   },
   {
     "revision": "a7ad3806848d77a3a27e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//amrmuhamedd.github.io/market/static/js/2.a8a3a7ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2614545db42c011a5ebe",
-    "url": "//amrmuhamedd.github.io/market/static/js/main.87b932d4.chunk.js"
+    "revision": "961b2a9441f7b3e7157e",
+    "url": "//amrmuhamedd.github.io/market/static/js/main.ff22ac35.chunk.js"
   },
   {
     "revision": "8f845fbd9683b49cc3d8",
