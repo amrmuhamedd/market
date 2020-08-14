@@ -4,3 +4,11 @@
     border: none;
     text-align: center;
 }
+@media (max-width : 600px ) {
+    .modal {
+        top : 40%;
+        left : 15%;
+        border: none;
+        text-align: center;
+    }
+}
