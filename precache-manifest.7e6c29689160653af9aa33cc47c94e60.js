@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a1bc6f454f92428bac0a3f71a8adfee",
+    "revision": "bece3bcca687853453ecd61702d67510",
     "url": "//amrmuhamedd.github.io/market/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//amrmuhamedd.github.io/market/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8fa2d38f93789aad2bf6",
-    "url": "//amrmuhamedd.github.io/market/static/css/main.75e14758.chunk.css"
+    "revision": "2614545db42c011a5ebe",
+    "url": "//amrmuhamedd.github.io/market/static/css/main.cdda8349.chunk.css"
   },
   {
     "revision": "a7ad3806848d77a3a27e",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//amrmuhamedd.github.io/market/static/js/2.a8a3a7ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fa2d38f93789aad2bf6",
+    "revision": "2614545db42c011a5ebe",
     "url": "//amrmuhamedd.github.io/market/static/js/main.87b932d4.chunk.js"
   },
   {
