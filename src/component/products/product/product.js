@@ -3,6 +3,11 @@ import {connect} from 'react-redux';
 import {Card} from 'react-bootstrap'
 import classes from './product.module.css';
 import {NavLink} from 'react-router-dom'
+import Spinner from '../../ui/spinner/spinner'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {
+    faCartPlus
+} from '@fortawesome/free-solid-svg-icons';
 import * as action from '../../../store/actions/index'
 const product = (props) => {
     const handleAddToCart = () => {
@@ -11,7 +16,7 @@ const product = (props) => {
         setTimeout(()=> {props.closeModal()}, 3000)
     }
     const product = props.product ? (
-        <div  className ={classes.product}>
+        <div  className ={classes.product + ' page'}>
                 <div className= {classes.card}>
                     <Card.Body>
                     <Card.Img variant="top" src={props.product.img.master} />
@@ -19,12 +24,12 @@ const product = (props) => {
             <Card.Text className= {classes.info} >{props.product.info}</Card.Text>
             <div className = {classes.price} style ={{textDecoration : props.product.hasOver ? 'line-through' : 'none'}}><strong>price : </strong>{props.product.price}</div> 
             {props.product.hasOver ? <div className = {classes.price}><strong>new price : </strong>{props.product.newPrice}</div>  : null }
-            <button className={classes.addBtn + " btn  ml-auto"}  onClick ={() => handleAddToCart()}>add to cart</button>
+            <button className={classes.addBtn + " btn  ml-auto"}  onClick ={() => handleAddToCart()}> add to cart</button>
                     </Card.Body>
                    
                 </div>
         </div>
-    ) : (<p className="text-center"> looding ...... </p>);
+    ) : (<div className="text-center"><Spinner /></div>);
     return(
         <div className ="container">
         {product}

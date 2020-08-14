@@ -10,3 +10,8 @@ export const closeModal = () => {
         type  : actionType.CLOSE_MODAL,
     }
 }
+export const endLoading = () => {
+    return {
+        type  : actionType.END_LOADING,
+    }
+}

@@ -1,5 +1,5 @@
 import React  from 'react'
-import Aux from '../../../hoc/Auxe/aux';
+import Aux from '../../../hoc/ar';
 import {NavLink} from 'react-router-dom' 
 import classes from './cartItem.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

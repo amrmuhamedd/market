@@ -1,7 +1,7 @@
 import React  from 'react';
 import {NavLink} from 'react-router-dom';
 import {Carousel , Row , Col , Container} from 'react-bootstrap'
-import Aux from '../../../../hoc/Auxe/aux';
+import Aux from '../../../../hoc/ar';
 import classes from './headItem.module.css'
 const product = (props) => {
    return (

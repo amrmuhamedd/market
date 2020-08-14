@@ -1,5 +1,5 @@
 import React from 'react'
-import Aux from '../../../hoc/Auxe/aux';
+import Aux from '../../../hoc/ar';
 import {Card} from 'react-bootstrap';
 import {NavLink} from 'react-router-dom' 
 import classes from './productItem.module.css';
