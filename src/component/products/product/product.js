@@ -4,10 +4,6 @@ import {Card} from 'react-bootstrap'
 import classes from './product.module.css';
 import {NavLink} from 'react-router-dom'
 import Spinner from '../../ui/spinner/spinner'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {
-    faCartPlus
-} from '@fortawesome/free-solid-svg-icons';
 import * as action from '../../../store/actions/index'
 const product = (props) => {
     const handleAddToCart = () => {
