@@ -1,5 +1,7 @@
 This project was is live [here](https://amrmuhamedd.github.io/market/).
 
+ecommerce project  front-end  useing react js  and redux
+
 ## Available Scripts
 to start using this app localy run <br />
 
