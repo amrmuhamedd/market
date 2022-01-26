@@ -1,6 +1,8 @@
 This project was is live [here](https://amrmuhamedd.github.io/market/).
 
-ecommerce project  front-end  useing react js  and redux
+ecommerce project  front-end  useing react js  and redux <br/>
+
+you can see all products and prodcts have sale  you can add product to cart and see total of the cart
 
 ## Available Scripts
 to start using this app localy run <br />
